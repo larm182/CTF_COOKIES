@@ -22,5 +22,16 @@ Este CTF está diseñado para enseñar cómo funciona el **robo de cookies** med
 
 ## 🚀 Instrucciones  
 
-1. Clona este repositorio:  
+1. Clona este repositorio:
+https://github.com/larm182/CTF_COOKIES.git
+
+2. Instala las dependencias:
+cd CTF_COOKIES
+pip install -r requirements.txt
+
+3. Ejecuta el servidor Flask:
+python app.py
+
+Accede a http://127.0.0.1:5000 en tu navegador y comienza el desafío.
+📢 ¡Buena suerte y que comience el hacking ético! 🔥
   
